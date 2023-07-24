@@ -8,12 +8,12 @@
         "method": "POST",
         "sortNum": 0,
         "created": "2023-07-24T10:24:18.277Z",
-        "modified": "2023-07-24T10:24:58.529Z",
+        "modified": "2023-07-24T13:34:50.414Z",
         "headers": [],
         "params": [],
         "body": {
             "type": "json",
-            "raw": "{\n  \"name\":\"Fido\",\n  \"breed\":\"Corgi\",\n  \"birthdate\":\"bonjour\"\n}",
+            "raw": "{\n  \"name\":\"Fido\",\n  \"breed\":\"Corgi\",\n  \"birthdate\":\"2021-09-07\"\n}",
             "form": []
         },
         "tests": []
